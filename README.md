@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/marcel-pierce-1a49b52a5/">Marcel Pierce</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and  thrive on solving complex challenges through hands-on projects. From vulnerability management to threat detection, these projects give me the opportunity to immerse myself in the dynamic world of cybersecurity. Please feel free to check them out, to see the work where I focus on strengthening security operations and optimizing processes to keep digital environments safe.
+I am a passionate Cybersecurity Analyst who thrives on solving complex challenges through hands-on projects. From vulnerability management to threat detection, these projects give me the opportunity to immerse myself in the dynamic world of cybersecurity. Please feel free to check them out, to see the work where I focus on strengthening security operations and optimizing processes to keep digital environments safe.
 
 ## ⚠️ Vulnerability Management Projects
 
