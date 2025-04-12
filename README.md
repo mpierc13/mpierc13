@@ -57,7 +57,7 @@ I am a passionate Cybersecurity Analyst who thrives on solving complex challenge
 ---
 
 <h2>📜 Certifications:</h2>
-- CISSP: Expected June 2025 <br>- CompTIA Security+: Expected June 2025 <br>- CompTIA Network+: Expected April 2025
+- CompTIA Security+: Expected June 2025 <br>
 
 <h2>🤳 Connect with Me:</h2>
 <a href="https://https://www.linkedin.com/in/marcel-pierce-1a49b52a5/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
