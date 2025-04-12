@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Marcel+Pierce!;" />
+</h1>
+
 # <a href="https://www.linkedin.com/in/marcel-pierce-1a49b52a5/">Marcel Pierce</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I am a passionate Cybersecurity Analyst who thrives on solving complex challenges through hands-on projects. From vulnerability management to threat detection, these projects give me the opportunity to immerse myself in the dynamic world of cybersecurity. Please feel free to check them out, to see the work where I focus on strengthening security operations and optimizing processes to keep digital environments safe.
