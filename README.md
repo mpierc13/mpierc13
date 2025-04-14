@@ -16,6 +16,7 @@ I am a passionate Cybersecurity Analyst who thrives on solving complex challenge
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mpierc13/Threat-Hunting-Scenario-Tor)**
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/mpierc13/Detection-of-Internet-Facing-Sensitive-Assets)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/mpierc13/Sudden-Network-Slowdowns)**
+- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/mpierc13/Data-Exfiltration)**
 <hr/>
 
 ---
