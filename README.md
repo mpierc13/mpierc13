@@ -17,6 +17,7 @@ I am a passionate Cybersecurity Analyst who thrives on solving complex challenge
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/mpierc13/Detection-of-Internet-Facing-Sensitive-Assets)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/mpierc13/Sudden-Network-Slowdowns)**
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/mpierc13/Data-Exfiltration)**
+- **[Incident Response: Create Alert Rule (PowerShell Suspicious Request](https://github.com/mpierc13/PowerShell-suspicious-web-request)**
 <hr/>
 
 ---
